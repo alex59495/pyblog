@@ -1,4 +1,6 @@
 from django.urls import path
+from blog import views
 
-url_patterns = [
+urlpatterns = [
+  path('create_blog', views.create_blog)
 ]
