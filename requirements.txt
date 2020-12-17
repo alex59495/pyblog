@@ -1,0 +1,6 @@
+# packages in environment at /home/alexis/anaconda3/envs/py3-8-5:
+#
+# Name                    Version                   Build  Channel               2020.12.5        py38h578d9bd_0    conda-forge
+django                    3.1.4              pyhd3eb1b0_0  
+django-bootstrap4         2.3.1                    pypi_0    pypi
+pytz                      2020.4             pyhd3eb1b0_0 
